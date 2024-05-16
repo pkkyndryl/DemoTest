@@ -1,4 +1,4 @@
 # Table of contents
 
-* [DemoTest](README.md)
+* [Home](README.md)
 * [Code](code.md)
